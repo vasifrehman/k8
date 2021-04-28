@@ -5,6 +5,8 @@ metadata:
   labels:
     app: nginx
     tier: frontend
+    owner: vasif
+    email: vasifrehman@gail.com
 spec:
   containers:
     - name: nginx
